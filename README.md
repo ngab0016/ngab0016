@@ -23,7 +23,7 @@ Not Goku, the gifted prodigy born with limitless potential. **Vegeta.** The one 
 
 Every bug I've fixed, every feature I've shipped, every framework I've learned, none of it came easy. It came from grinding through documentation at 2 AM. From breaking things ten times before fixing them once. From refusing to quit when the imposter syndrome whispered that I didn't belong.
 
-## ⚡ The Training Arc
+## The Training Arc
 
 ```
 Day 1:    "Hello, World!" felt impossible.
